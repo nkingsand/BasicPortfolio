@@ -1,0 +1,40 @@
+body {
+    width: 960px;
+    margin: 0px auto;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color:  black;
+    background-color: gray;
+    }
+    nav {
+        float:right;
+        position: right;
+        top:relative;
+    }
+    header {
+        background: #4aaaa5;
+        padding:15px;
+        width:400px;
+        text-align:center;
+        top:-55px;
+        position: relative;
+        margin:20px;
+    } 
+    h2{
+        color:black;
+        width:350px;
+        font-size:24px;
+        text-align:center;
+    }
+    li{
+        display: inline-block;
+    }
+    a{
+        color:black;      
+    }
+img{
+    float: left;
+    height: 100px;
+    width: 75px;
+}
